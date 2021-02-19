@@ -1,0 +1,38 @@
+Model/Builder/ClientBuilder.java
+ Model.Builder.ClientBuilder
+Model/User.java
+ Model.User
+test.java
+ test
+Utility/JDBConnectionWrapper.java
+ Utility.JDBConnectionWrapper
+Repository/Security/RightsRolesRepositoryMySQL.java
+ Repository.Security.RightsRolesRepositoryMySQL
+DataBase/Constants.java
+ DataBase.Constants
+ DataBase.Constants$Rights
+ DataBase.Constants$Roles
+ DataBase.Constants$Schemas
+ DataBase.Constants$Tables
+Model/Builder/AccountBuilder.java
+ Model.Builder.AccountBuilder
+Model/Right.java
+ Model.Right
+Model/Role.java
+ Model.Role
+DataBase/DBConnectionFactory.java
+ DataBase.DBConnectionFactory
+Repository/Cache.java
+ Repository.Cache
+Model/Client.java
+ Model.Client
+Model/Builder/UserBuilder.java
+ Model.Builder.UserBuilder
+DataBase/SQLTableCreationFactory.java
+ DataBase.SQLTableCreationFactory
+Model/Account.java
+ Model.Account
+Repository/Security/RightsRolesRepository.java
+ Repository.Security.RightsRolesRepository
+DataBase/Bootsrap.java
+ DataBase.Bootsrap
