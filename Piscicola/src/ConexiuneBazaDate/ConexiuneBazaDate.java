@@ -10,10 +10,9 @@ import java.util.logging.Logger;
 public class ConexiuneBazaDate {
 	private static final Logger LOGGER = Logger.getLogger(ConexiuneBazaDate.class.getName());
 	private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
-	private static final String DBURL = "jdbc:mysql://79.114.234.218:3306/Piscicola";
-	//:3306 192.168.1.199
-	private static final String USER = "daniel";
-	private static final String PASS = "daniel";
+	private static final String DBURL = "";
+	private static final String USER = "";
+	private static final String PASS = "";
 	private static ConexiuneBazaDate singleInstance = new ConexiuneBazaDate();
 	private ConexiuneBazaDate() {
 		try {
